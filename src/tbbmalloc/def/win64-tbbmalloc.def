@@ -32,6 +32,8 @@ __TBB_malloc_safer_msize
 __TBB_malloc_safer_aligned_msize
 __TBB_malloc_safer_aligned_realloc
 
+trace_touch
+
 ; memory pool stuff
 ?pool_create@rml@@YAPEAVMemoryPool@1@_JPEBUMemPoolPolicy@1@@Z
 ?pool_create_v1@rml@@YA?AW4MemPoolError@1@_JPEBUMemPoolPolicy@1@PEAPEAVMemoryPool@1@@Z
